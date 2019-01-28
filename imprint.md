@@ -1,6 +1,7 @@
 ---
 title: Imprint
 author: J.C. Altgen
+layout: page
 ---
 
 <h1>Datenschutzerklärung</h1>
