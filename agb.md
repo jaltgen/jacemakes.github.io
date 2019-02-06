@@ -11,8 +11,6 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 - nach schriftlicher Bestätigung eines Angebots: 
    - 1 Woche vor Gig-Termin = 15% des Projektbudgets
   - 48h vor Gig-Termin = 75% des Projektbudgets
-  
-# Recht am Bild
 
 
 ## Übertragung des exklusiven Nutzungsrechts
@@ -35,12 +33,15 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 8. Der Dienstleister räumt keinerlei Nutzungsrecht an "offenen" Design- oder Projektdaten wie Photoshop-, PremierePro-, Davinci Resolve- oder Avid Media Composer-Dateien. Diese Daten unterliegen generell dem Urheberrecht des Dienstleisters. Diese Daten können in einem gesonderten Vertrag gegen Vergütung vom Kunden erworben werden. 
 
-# Projektarchivierung
+# Datenspeicherung
 
-1. Der Dienstleister übernimmt soweit nicht separat vertraglich vereinbart keine 
+1. Der Dienstleister ist soweit nicht anderweitig vertraglich geregelt nicht zur Speicherung, Sicherung und Archivierung der digitalen Mediendaten, Projektdaten, Kameradaten, Metadaten oder Produktionsdaten verpflichtet. Die Gewährleistung der Datensicherheit der zuvor genannten Daten obliegt dem Kunden. Hinsichtlich dieser Pflichten kann der Dienstleister beratend tätig werden. Dies bedarf einer separaten vertraglichen Regelung.
 
-- redundante Speicherung von Media-Assets wie Kamera-Rohdaten, Sendemastern oder finalen Bildversionen obliegt dem Kunden
-- JaceMakes speichert die Projektdaten (Premiere, DaVinci oder sonstige Projekt-Files) sowohl lokal wie auch in einer verschlüsselten Cloud
+2. Der Kunde willigt ein, dass seine personenbezogenen Daten sowie die seiner Mitarbeiter gemäß DSGVO (Postanschrift, Telefon- und Mobilfunkrufnummer, Email Adressen, Whatsapp Kontakt, Facebook-, LinkedIn- und XING-Kontakte) zu den Zwecken der Auftragsabwickelung und Kommunikation bis zur vollständigen Zahlung der vereinbarten Vergütung gespeichert werden. Darüber hinaus werden buchhaltungsrelevante personenbezogene Daten des Kunden bis zu zehn Jahre nach Ablauf des aktuellen Geschäftsjahrs gespeichert.
+
+3. Der Dienstleister speichert Projektdaten wie Adobe Creative Cloud Projekte und Blackmagic DaVinci Resolve Projektdaten für 24 Monate nach vollständiger Zahlung der vereinbarten Vergütung in einem Cloud-Speicher Archiv mit Serverstandort in Europa.
+
+
 - Zugriffszeiten auf alte Projekte können bis zu 48 Stunden betragen. Anfrage von Archivdaten kostet pauschal 50€ ohne Garantie, dass die Daten nutzbar sind.
 
 # Ausmaß des Angebots
