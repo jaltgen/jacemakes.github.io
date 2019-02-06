@@ -6,11 +6,7 @@ layout: page
 
 Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwischen Jacemakes und dem Kunden entstehenden Vertragsverhältnis.
 
-    Der Umgang mit den AGB des Vertragspartners – bestenfalls die eigenen Vereinbarungen als verbindlich erklären, wenn nicht ausdrücklich widersprochen wird. So kommen sich die (meist ungelesenen) Aufhebeparagrafen in verschiedenen AGB nicht in die Quere.
-    Umgang mit sogenannten offenen Daten oder Originalen von manueller/analoger Gestaltung – sie gehören nur dann zum Lieferumfang, wenn entsprechend vereinbart.
-    Vergütung – alle Leistungen sind kostenpflichtig, auch Sonder- oder Mehrleistungen.
-    Umgang mit Verzögerungen durch den Auftraggeber, z.B. in Form einer zusätzlichen Abschlagszahlung.
-    Welche Auswirkung haben Vorschläge des Auftraggebers oder seiner Mitarbeiter/innen auf die Vergütungshöhe – keine.
+    
     Fälligkeit, Abnahme und Verzug.
     Die enthaltenen Nutzungsrechte und der Umgang mit ihnen, z.B. wie können sie auf Dritte übertragen werden?
     Die Namensnennungspflicht.
@@ -26,13 +22,13 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 2.
 
 
-# Blockung von Projektzeiten / Terminen
+# Verzögerungen des Leistungsdatums
 
 1. JaceMakes bietet Dienstleistungen zu einem Angebot definierten Leistungsdatum an. Bei Projekten, welche über mehrere Tage andauern, werden die zur Verfügung gestellten Tage im Angebot definiert.
 
 2. Bei Kündigung des zwischen Dienstleister und Kunden durch schriftliche Annahme des Angebots entstandenen Vertrags zwischen sieben Tagen und 48 Stunden vor dem ersten Leistungsdatum fallen 15% der vertraglich vereinbarten Vergütung als Ausfallgebühr an. Wird der Vertrag unter 48 Stunden vor dem geplanten ersten Leistungsdatum gekündigt, verpflichtet sich der Kunde 100% der vertraglich geregelten Vergütung als Ausfallgebühr an den Dienstleister zu zahlen.
 
-3. Der Kunde hat kein automatisches Recht auf Leistungserbringung zu einem späteren Zeitpunkt bei Zahlung einer Ausfallgebühr. Wünscht der Kunde die im aufgekündigten Vertrag vereinbarte Leistung zu einem späteren Zeitpunkt in Anspruch zu nehmen, wird ein neues Leistungsdatum bzw. ein Leistungszeitraum vereinbart. 
+3. Der Kunde hat kein automatisches Recht auf Leistungserbringung zu einem späteren Zeitpunkt bei Zahlung einer Ausfallgebühr an JaceMakes. Wünscht der Kunde die im aufgekündigten Vertrag vereinbarte Leistung zu einem späteren Zeitpunkt in Anspruch zu nehmen, wird ein neues Leistungsdatum bzw. ein Leistungszeitraum vereinbart. 
 
 4. Ein Arbeitstag laut Angebot oder Vertrag versteht sich als acht Arbeitsstunden inklusive Pausen. Ab der 10. Arbeiststunde nach Arbeitsbeginn werden 20% der ausgewiesenen Tagesgage zusätzlich in Rechnung gestellt. Nach Ablauf der 13. Stunde nach Arbeitsbeginn wird eine komplette zweite Tagesgage berechnet.
 
@@ -57,6 +53,8 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 8. Der Dienstleister räumt keinerlei Nutzungsrecht an "offenen" Design- oder Projektdaten wie Photoshop-, PremierePro-, Davinci Resolve- oder Avid Media Composer-Dateien. Diese Daten unterliegen generell dem Urheberrecht des Dienstleisters und sind nicht automatisch im Leistungsumfang von JaceMakes enthalten. Diese Daten können in einem gesonderten Vertrag gegen Vergütung vom Kunden erworben werden. 
 
+9. Gestalterische oder technische Vorschläge des Kundens zur Arbeitsausführung seitens JaceMakes haben keinen Einfluß auf die vertraglich geregelte Vergütung. 
+
 # Datenspeicherung
 
 1. Der Dienstleister ist soweit nicht anderweitig vertraglich geregelt nicht zur Speicherung, Sicherung und Archivierung der digitalen Mediendaten, Projektdaten, Kameradaten, Metadaten oder Produktionsdaten verpflichtet. Die Gewährleistung der Datensicherheit der zuvor genannten Daten obliegt dem Kunden. Hinsichtlich dieser Pflichten kann der Dienstleister beratend tätig werden. Dies bedarf einer separaten vertraglichen Regelung.
@@ -72,4 +70,6 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 1. JaceMakes verpflichtet sich die aus dem Angebot hervorgehenden Arbeiten nach bestem Wissen und Gewissen zu erfüllen.
 
-2. Im Preis der vertraglich vereinbarten Vergütung ist eine Änderungsrunde enthalten. Der Kunde hat das Recht, qualitative Nachbesserungen zu verlangen. 
+2. Alle erbrachten Leistungen sind Vergütungspflichtig. Dies beinhaltet Mehrleistungen wie nachträgliche Kundenwünsche sowie  qualitative oder quantitative Änderungswünsche durch den Kunden.
+
+2. Die
