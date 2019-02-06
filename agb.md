@@ -6,19 +6,12 @@ layout: page
 
 Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwischen Jacemakes und dem Kunden entstehenden Vertragsverhältnis.
 
-    
-    Fälligkeit, Abnahme und Verzug.
-    Korrekturen, Produktionsbegleitung, Belegexemplare und die Nutzung des Entwurfs durch den Designer als Referenz
-    Sonderleistungen, Neben- und Reisekosten
-    Haftungsfragen – Haftungsausschluss wo nötig, insbesondere für Leistungen Dritter.
-    Vertragsauflösung, Stornokosten, Gerichtsstand
 
 # Gültigkeit der Vereinbarungen
 
 1. Die im Folgenden festgehaltenen Vereinbarungen sind für das Vertragsverhältnis zwischen JaceMakes und dem Kunden gültig, solange diesen nicht ausdrücklich wiedersprochen oder einzelne Regelungen einvernehmlich durch beide Parteien gestrichen werden.
 
-2.
-
+2. Der Vertrag endet mit der Auslieferung des angebotenen Produktes, bzw. mit Ablauf des vereinbarten Leistungsdatums.
 
 # Verzögerungen des Leistungsdatums
 
@@ -31,7 +24,7 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 4. Ein Arbeitstag laut Angebot oder Vertrag versteht sich als acht Arbeitsstunden inklusive Pausen. Ab der 10. Arbeiststunde nach Arbeitsbeginn werden 20% der ausgewiesenen Tagesgage zusätzlich in Rechnung gestellt. Nach Ablauf der 13. Stunde nach Arbeitsbeginn wird eine komplette zweite Tagesgage berechnet.
 
 
-## Übertragung des exklusiven Nutzungsrechts
+# Übertragung des exklusiven Nutzungsrechts
 
 1. JaceMakes (im Folgenden "Dienstleister") räumt dem Auftraggeber (im Folgenden "Kunden") unwiderruflich sämtliche zeitlich, räumlich und sachlich unbeschränkten Rechte an sämtlichen im Rahmen dieses Werkvertrags erstellten urheberrechtlich geschützten Leistungen (folgend "Produkt" genannt) ein und überträgt ihm sämtliche hieran bestehenden übertragbaren Rechte.
 
@@ -65,13 +58,31 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 3. Der Dienstleister speichert Projektdaten wie Adobe Creative Cloud Projekte und Blackmagic DaVinci Resolve Projektdaten für 24 Monate nach vollständiger Zahlung der vereinbarten Vergütung in einem Cloud-Speicher Archiv mit Serverstandort in Europa.
 
+4. JaceMakes übernimmt keine Garantie für Schäden durch Datenverluste, die durch Dritte, wie z.B. Rechenzentrumsbetreiber, Spediteure, Postdienstleister, oder durch mutwillige Zerstörung zustande kommt.
 
-- Zugriffszeiten auf alte Projekte können bis zu 48 Stunden betragen. Anfrage von Archivdaten kostet pauschal 50€ ohne Garantie, dass die Daten nutzbar sind.
+4. Zugriffszeiten auf abgeschlossene Projekte können bis zu 48 Stunden nach Anfrage des Kunden betragen. Bei Anfrage von solchen Archivdaten abgeschlossener Projekte wird eine Gebühr von pauschal 50€ fällig.
 
-# Ausmaß, Fälligkeit und Revisionsschleifen
+4. JaceMakes ist nicht verpflichtet, Datenträger, offene Dateien und Quellaten herauszugeben. Wünscht der Auftraggeber, dass  der Dienstleister ihm Datenträger, Dateien und Daten zur Verfügung stellt, ist dies schriftlich zu vereinbaren und gesondert zu vergüten.
+
+
+# Ausmaß, Fälligkeit und Revisionsschleifen, Haftung
 
 1. JaceMakes verpflichtet sich die aus dem Angebot hervorgehenden Arbeiten nach bestem Wissen und Gewissen zu erfüllen.
 
 2. Alle erbrachten Leistungen sind Vergütungspflichtig. Dies beinhaltet Mehrleistungen wie nachträgliche Kundenwünsche sowie  qualitative oder quantitative Änderungswünsche durch den Kunden.
 
-2. Die
+3. Im  Rahmen  des  Auftrags  besteht  für  den  Dienstleister  Gestaltungsfreiheit.  Wünscht der Auftraggeber während oder nach der Produktion Änderungen, so hat er die Mehrkosten zu tragen.  
+
+4. Verzögert  sich  die  Durchführung  des  Auftrags  aus  Gründen,  die  der  Auftraggeber  zu  vertreten  hat,  so  kann  der  Dienstleister  eine  angemessene  Erhöhung der Vergütung verlangen. 
+
+5.  Der Auftraggeber versichert, dass er zur Verwendung aller dem Dienstleister übergebenen  Vorlagen  berechtigt  ist  und  dass  diese  Vorlagen  von  Rechten  Dritter frei sind. Sollte er entgegen dieser Versicherung nicht zur Verwendung berechtigt oder sollten die Vorlagen nicht frei von Rechten Dritter sein, stellt der Auftraggeber den Designer im Innenverhältnis von allen Ersatzansprüchen Dritter  frei.  Die  Freistellungsverpflichtung  entfällt,  sofern  der  Auftraggeber nachweist, dass ihn kein Verschulden trifft.
+
+6. JaceMakes schließt jegliche Haftung für die Tätigkeiten Dritter aus, auch wenn JaceMakes für die Buchung dieser Dienstleistungen zuständig war. So wird night gehaftet für Ausführungsfehler Dritter wie z.B. Tonmeister, Kameraleute, Postboten, Rechenzentrumsbetreiber oder anderen Personen die zur Erfüllung des Auftrages durch JaceMakes bestellt sind.
+
+7. JaceMakes haftet nicht für und ist nicht zur Nachbesserung von Fehlern verpflichtet die durch mangelnde, fehlerhafte, unvollständige oder ausbleibende Kommunikation durch den Kunden entstehen. Dies beinhaltet Schnittfehler auf Grund von ungenauen Produktionsabläufen oder Kundenwünschen, Farbabweichungen durch fehlerhafte Bildschirmausgaben oder Abnahmen durch Kunden an nicht-kalibrierten Monitoren.
+
+# Schlußbestimmungen
+
+1. Falls, dass der Kunde keinen allgemeinen Gerichtsstand in der Bundesrepublik Deutschland hat oder er seinen Sitz oder  Aufenthalt nach Vertragsabschluss ins Ausland verlegt wird der Wohnsitz des Dienstleisters als Gerichtsstand vereinbart.  
+
+2. Ist eine der vorstehenden Vertragsbedingungen unwirksam, so berührt dies die Wirksamkeit der übrigen Vertragsbedingungen nicht.
