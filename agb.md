@@ -8,8 +8,6 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
     
     Fälligkeit, Abnahme und Verzug.
-    Die enthaltenen Nutzungsrechte und der Umgang mit ihnen, z.B. wie können sie auf Dritte übertragen werden?
-    Die Namensnennungspflicht.
     Korrekturen, Produktionsbegleitung, Belegexemplare und die Nutzung des Entwurfs durch den Designer als Referenz
     Sonderleistungen, Neben- und Reisekosten
     Haftungsfragen – Haftungsausschluss wo nötig, insbesondere für Leistungen Dritter.
@@ -55,6 +53,10 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 9. Gestalterische oder technische Vorschläge des Kundens zur Arbeitsausführung seitens JaceMakes haben keinen Einfluß auf die vertraglich geregelte Vergütung. 
 
+10. Wenn das aus dem Vertrag resultierende Bewegtbild-Produkt (Film, TV-Sendung, Werbung, Online-Video, Out-of-Home Video) Namensnennung ermöglicht, ist Herr Jannik Altgen namentlich zu nennen. So z.B. wenn Regie, Kamera oder Darsteller genannt werden, muss Herr Altgen auch genannt werden. 
+
+11. JaceMakes und Herr Jannik Christopher Altgen behalten das Recht, das gemäß Vertrag erstellte Produkt nach Veröffentlichung (bei TV Produktionen erster Sendetermin, bei Online-Videos der Veröffentlichungstermin, bei Filmen der deutsche Kinostart) auf seiner Website als Referenz mit Namen des Produkts, Bildmaterial und einem Link zum Produkt werden.
+
 # Datenspeicherung
 
 1. Der Dienstleister ist soweit nicht anderweitig vertraglich geregelt nicht zur Speicherung, Sicherung und Archivierung der digitalen Mediendaten, Projektdaten, Kameradaten, Metadaten oder Produktionsdaten verpflichtet. Die Gewährleistung der Datensicherheit der zuvor genannten Daten obliegt dem Kunden. Hinsichtlich dieser Pflichten kann der Dienstleister beratend tätig werden. Dies bedarf einer separaten vertraglichen Regelung.
@@ -66,7 +68,7 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 - Zugriffszeiten auf alte Projekte können bis zu 48 Stunden betragen. Anfrage von Archivdaten kostet pauschal 50€ ohne Garantie, dass die Daten nutzbar sind.
 
-# Ausmaß des Angebots
+# Ausmaß, Fälligkeit und Revisionsschleifen
 
 1. JaceMakes verpflichtet sich die aus dem Angebot hervorgehenden Arbeiten nach bestem Wissen und Gewissen zu erfüllen.
 
