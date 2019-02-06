@@ -6,16 +6,40 @@ layout: page
 
 Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwischen Jacemakes und dem Kunden entstehenden Vertragsverhältnis.
 
-# Blockung von angebotenen Terminen
+    Der Umgang mit den AGB des Vertragspartners – bestenfalls die eigenen Vereinbarungen als verbindlich erklären, wenn nicht ausdrücklich widersprochen wird. So kommen sich die (meist ungelesenen) Aufhebeparagrafen in verschiedenen AGB nicht in die Quere.
+    Umgang mit sogenannten offenen Daten oder Originalen von manueller/analoger Gestaltung – sie gehören nur dann zum Lieferumfang, wenn entsprechend vereinbart.
+    Vergütung – alle Leistungen sind kostenpflichtig, auch Sonder- oder Mehrleistungen.
+    Umgang mit Verzögerungen durch den Auftraggeber, z.B. in Form einer zusätzlichen Abschlagszahlung.
+    Welche Auswirkung haben Vorschläge des Auftraggebers oder seiner Mitarbeiter/innen auf die Vergütungshöhe – keine.
+    Fälligkeit, Abnahme und Verzug.
+    Die enthaltenen Nutzungsrechte und der Umgang mit ihnen, z.B. wie können sie auf Dritte übertragen werden?
+    Die Namensnennungspflicht.
+    Korrekturen, Produktionsbegleitung, Belegexemplare und die Nutzung des Entwurfs durch den Designer als Referenz
+    Sonderleistungen, Neben- und Reisekosten
+    Haftungsfragen – Haftungsausschluss wo nötig, insbesondere für Leistungen Dritter.
+    Vertragsauflösung, Stornokosten, Gerichtsstand
 
-- nach schriftlicher Bestätigung eines Angebots: 
-   - 1 Woche vor Gig-Termin = 15% des Projektbudgets
-  - 48h vor Gig-Termin = 75% des Projektbudgets
+# Gültigkeit der Vereinbarungen
+
+1. Die im Folgenden festgehaltenen Vereinbarungen sind für das Vertragsverhältnis zwischen JaceMakes und dem Kunden gültig, solange diesen nicht ausdrücklich wiedersprochen oder einzelne Regelungen einvernehmlich durch beide Parteien gestrichen werden.
+
+2.
+
+
+# Blockung von Projektzeiten / Terminen
+
+1. JaceMakes bietet Dienstleistungen zu einem Angebot definierten Leistungsdatum an. Bei Projekten, welche über mehrere Tage andauern, werden die zur Verfügung gestellten Tage im Angebot definiert.
+
+2. Bei Kündigung des zwischen Dienstleister und Kunden durch schriftliche Annahme des Angebots entstandenen Vertrags zwischen sieben Tagen und 48 Stunden vor dem ersten Leistungsdatum fallen 15% der vertraglich vereinbarten Vergütung als Ausfallgebühr an. Wird der Vertrag unter 48 Stunden vor dem geplanten ersten Leistungsdatum gekündigt, verpflichtet sich der Kunde 100% der vertraglich geregelten Vergütung als Ausfallgebühr an den Dienstleister zu zahlen.
+
+3. Der Kunde hat kein automatisches Recht auf Leistungserbringung zu einem späteren Zeitpunkt bei Zahlung einer Ausfallgebühr. Wünscht der Kunde die im aufgekündigten Vertrag vereinbarte Leistung zu einem späteren Zeitpunkt in Anspruch zu nehmen, wird ein neues Leistungsdatum bzw. ein Leistungszeitraum vereinbart. 
+
+4. Ein Arbeitstag laut Angebot oder Vertrag versteht sich als acht Arbeitsstunden inklusive Pausen. Ab der 10. Arbeiststunde nach Arbeitsbeginn werden 20% der ausgewiesenen Tagesgage zusätzlich in Rechnung gestellt. Nach Ablauf der 13. Stunde nach Arbeitsbeginn wird eine komplette zweite Tagesgage berechnet.
 
 
 ## Übertragung des exklusiven Nutzungsrechts
 
-1. Der Dienstleister räumt dem Auftraggeber unwiderruflich sämtliche zeitlich, räumlich und sachlich unbeschränkten Rechte an sämtlichen im Rahmen dieses Werkvertrags erstellten urheberrechtlich geschützten Leistungen (folgend "Produkt" genannt) ein und überträgt ihm sämtliche hieran bestehenden übertragbaren Rechte.
+1. JaceMakes (im Folgenden "Dienstleister") räumt dem Auftraggeber (im Folgenden "Kunden") unwiderruflich sämtliche zeitlich, räumlich und sachlich unbeschränkten Rechte an sämtlichen im Rahmen dieses Werkvertrags erstellten urheberrechtlich geschützten Leistungen (folgend "Produkt" genannt) ein und überträgt ihm sämtliche hieran bestehenden übertragbaren Rechte.
 
 2. Die Einräumung bzw. Übertragung gem. Abs. 1 erfolgt aufschiebend bedingt bis zur vollständigen Zahlung der vereinbarten Vergütung.
 
@@ -31,7 +55,7 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 7. Der Auftraggeber ist berechtigt, an dem Produkt in eigenem Namen Schutzrechte anzumelden, insbesondere Designschutz und Markenschutz. Der Dienstleister wird sämtliche dafür erforderlichen Informationen schriftlich übermitteln und ggf. erforderliche Erklärungen gegenüber dem Deutschen Patent- und Markenamt auf erstes Anfordern gegen eine zum Zeitpunkt der Anforderung verhandelte Vergütung zur Verfügung stellen.
 
-8. Der Dienstleister räumt keinerlei Nutzungsrecht an "offenen" Design- oder Projektdaten wie Photoshop-, PremierePro-, Davinci Resolve- oder Avid Media Composer-Dateien. Diese Daten unterliegen generell dem Urheberrecht des Dienstleisters. Diese Daten können in einem gesonderten Vertrag gegen Vergütung vom Kunden erworben werden. 
+8. Der Dienstleister räumt keinerlei Nutzungsrecht an "offenen" Design- oder Projektdaten wie Photoshop-, PremierePro-, Davinci Resolve- oder Avid Media Composer-Dateien. Diese Daten unterliegen generell dem Urheberrecht des Dienstleisters und sind nicht automatisch im Leistungsumfang von JaceMakes enthalten. Diese Daten können in einem gesonderten Vertrag gegen Vergütung vom Kunden erworben werden. 
 
 # Datenspeicherung
 
@@ -46,4 +70,6 @@ Diese Vertragsbedingungen gelten für einen aus dem mitgesendeten Angebot zwisch
 
 # Ausmaß des Angebots
 
-- 
+1. JaceMakes verpflichtet sich die aus dem Angebot hervorgehenden Arbeiten nach bestem Wissen und Gewissen zu erfüllen.
+
+2. Im Preis der vertraglich vereinbarten Vergütung ist eine Änderungsrunde enthalten. Der Kunde hat das Recht, qualitative Nachbesserungen zu verlangen. 
