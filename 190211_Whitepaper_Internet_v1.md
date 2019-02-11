@@ -18,4 +18,7 @@ One aspect so far overlooked is your connection to wide-area networks. While loc
 
 In this whitepaper I will outline requirements and solutions for these three aspects: 
 1) high-speed local connectivity for 4K and above content
-2) 
+2) maintaining accessability and ease of use while ensuring security of assets
+3) options to maximize internet bandwidth
+
+## 
