@@ -8,9 +8,11 @@ layout: page
 
 ## 1. Gültigkeit der Vereinbarungen
 
-1.1 Die im Folgenden festgehaltenen Vereinbarungen sind für das Vertragsverhältnis zwischen JaceMakes und dem Auftraggeber gültig, solange diesen nicht ausdrücklich wiedersprochen oder einzelne Regelungen einvernehmlich durch beide Parteien gestrichen werden.
+1.1 Die im Folgenden festgehaltenen Vereinbarungen sind für das Vertragsverhältnis zwischen JaceMakes (im Folgenden "Dienstleister") und dem Kunden gültig, solange diesen nicht ausdrücklich wiedersprochen oder einzelne Regelungen einvernehmlich durch beide Parteien gestrichen oder mündlich anders vereinbart werden.
 
 1.2 Der Vertrag endet mit der Auslieferung des angebotenen Produktes, bzw. mit Ablauf des vertraglich vereinbarten Leistungsdatums.
+
+1.3 Ein Vertragsverhältnis zwischen dem Dienstleister und dem Kunden kommt durch schriftliche oder fernschriftliche Auftragsbestätigung seitens des Kunden zustande.
 
 ## 2. Verzögerungen des Leistungsdatums
 
