@@ -23,5 +23,12 @@ In this whitepaper I will outline requirements and solutions for these three asp
 
 ## Maximizing Local Bandwidth
 
-The first thing you should do when thinking about upgrading your network is this: throw out your cheap consumer router that the internet provider gave (or sold or rented) you with your contract. Almost everything about it is bad. The wifi antennas are most likely small, the routing options are limited, firewall options are ridiculous, the internal switching bandwith is small. It might even be throtteling certain ports, for example when you use Voice-Over-IP. It is a dangerous, slow piece of junk that has no place in a high-performance, secure network. This applies to ordinary DSL-type internet connections. When you are connected via fibre-optics or TV cable connection (usually identified by a coax cable), this might be a little more complicated. 
+There ar
 
+With 
+
+# WAN Access
+
+The first thing you should do when upgrading your network is this: get a professional router. Almost everything about the routers distributed by Internet Service Providers is bad. The wifi antennas are most likely small, the routing options are limited, firewall options are ridiculous, the internal switching bandwith is small. It might even be throtteling certain ports, for example when you use Voice-Over-IP. It is a dangerous, slow piece of junk that has no place in adminstering a high-performance, secure network. If you can get rid of it entirely by getting a router that can connect to your DSL, T1 or Fibre Optics connection, do that. If you cannot get around it, use it strictly as an intermediary between your provider and your new, shiny, professional router. From now on, this new router will take care of DHCP, Wifi, VPN, firewalls, throtteling, subnets and so forth. 
+
+- bonding must be accessible for all protocols!
