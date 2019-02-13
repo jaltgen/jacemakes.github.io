@@ -23,7 +23,28 @@ In this whitepaper I will outline requirements and solutions for these three asp
 
 ## Maximizing Local Bandwidth
 
-There ar
+### Storage Bandwidth Requirements in Digital Post-Production & Data Wrangling
+
+The bandwidth with which computers connect to storage is best thought of in terms of video streams. The bandwidth requirement of a stream can in simple terms be understood as the bitrate of the codec. Say you have an [Apple ProRes [PDF]](https://www.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf) file in 1920x1080p25, then your data rate is approximately 300 Mbit/s. Clearly, even a 1 GbE connection can provide up to three such streams (in a multicam scenario, for example). This theoretical calculation assumes a great many things, though. It considers a single workstation connected via a 1GbE port is reading a single file from a single storage device connected to a network via a 1GbE connection with no other factors considered. 
+
+The reality of a postproduction facility with multiple workstations is quite different. Multiple clients will be reading and writing multiple files to a variety of storage devices. Such a facility will have an online storage solution like an Avid Nexis or TeraBlock server, a backup "nearline" storage and maybe a workstation writing a tape for archival or off-site backup purposes. 
+
+
+### Good Physical Connection
+
+To facilitate highspeed connectivity in your local network, a variety of options are available ranging from simple "change the cable" to a more involved process of buying dedicated equipment. The first thing ensure is quality cabling. While conventional copper-wiring is often already available, just because it has an [RJ-45](https://en.wikipedia.org/wiki/Modular_connector#8P8C) connector doesn't mean it can deliver the speed you want. Adequate cables, terminators and wall sockets are crucial.
+
+Without going into unnecessary detail, Ethernet exists since the 1980s and for copper-wired networks, speeds have increased one-thousand-fold in this timeframe, growing from in bandwidth from 10 Megabits per second to 10 Gigabits per second (10MbE to 10GbE). To put this in perspective for media companies, today, you can theoretically push about 4.5 TeraBytes through a 10GbE connection per hour. For most non-backbone connections, meaning workstations in postproduction suites or on set, that is usually sufficient. Due to the long history of Ethernet, however, if you plug new 10GbE hardware into an old wall socket that is wired with copper cables conforming to the Cat.5E or lower standard, you will not get the speed you desire. Even Cat.6 and above cables that theoretically support 10GbE might fall short if they are bent to sharply, twisted or the shielding has ben cut. This might result in less than ideal data rates on those connections. 
+
+In general, it pays to have an expert install cabling to match the speed you wish to achieve. Cat.6 and Cat.6A (augmented) are adequate for patch-cable distances (briding devices within a 19-inch rack, or the distance from a wall socket to your computer), while the more sturdy Cat.7 cables are ideal for installation in walls or over larger distances. That is only for copper wires, though.
+
+The go-to way to connect devices to facilitate the next jump in connection speed by an order of magnitude is fibre-optic connections. These lightweight, flexible cables carry pulses of light instead of electric current and are already common in many network applications in the form of the [Small Form-Factor Pluggable](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver#SFP+) - SFP for short. In the enhanced version - SFP+ - they carry up to 10Gbps in an Ethernet network, but the deployment of new form-factors for 40GbE and 100GbE is already under way. In all fairness, even copper wired cables can carry 40GbE in certain configurations. 
+
+- upgrade to a 10 GE system for your NAS
+- throttel certain routes
+- make sure to have well-laid, quality cables at each step
+- think about bottlenecks. Switches are not created equal.
+- install a dedicated SAN, maybe even fibre
 
 With 
 
