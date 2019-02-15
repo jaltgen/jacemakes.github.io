@@ -1,6 +1,6 @@
 ---
 title: Modern Connectivity Whitepaper
-date: 11. February 2019
+date: 15. February 2019
 layout: page
 ---
 
@@ -16,9 +16,11 @@ A crucial requirement that mustn't be overlooked is that of security. With the a
 
 One aspect so far overlooked is your connection to wide-area networks. While local high-speed connectivity is one pillar of a functioning postproduction, the speed with which you can access wide-area networks (WAN) - e.g. the internet - can severely limit your ability to download assets, upload deliverables to your clients or run backups or archive requests to a cloud. This can foreseeably even be the determining factor in how you must time and offer services, if they require large up- or downloads. Also, in the world of IP based live video production, adequate bandwidth is quintessential to deliver your product.
 
-In this whitepaper I will outline requirements and solutions for these three aspects:
-2) maintaining accessability and ease of use while ensuring security of assets
-3) options to maximize internet bandwidth
+In this whitepaper I will outline requirements and solutions for:
+
+- increasing bandwidth locally
+- network security
+- remote internet access
 
 ## Maximizing Local Bandwidth
 
@@ -82,6 +84,8 @@ Connecting your LAN to the services available in the global internet is usually 
 
 Manufacturers like Cisco or Lancom produce routers certified to conform to security standards to reduce the threat of being hacked. Among those features are operating-systems with hardened access rules and no back-doors, built in firewalls closing unused ports, filtering content and many more that cheap routers don't have. This router is the digital front-door of your business - it's locks should be as strong as possible.
 
+The field of network security is wide and entire professions work exclusively to stay ahead of hackers trying to exploit existing hardware flaws, protocol leaks and user errors (such as falling for phishing sites). A few things can easily be done. Relatively low-cost integrated solutions such as (WatchGuard Firebox devices)[https://www.watchguard.com/wgrd-products/network-security-appliances] can be deployed to increase security on-site. If this isn't an option, a DIY-solution could be deploying a single-board computer with content filters in the LAN - though this is by no means a safe catch-all. The take-away should be that network security when connecting to the internet is not a given and action should be taken to prevent potentially ruinous breaches of security.
+
 ### What if the door is locked?
 
 Continuing with the door-metaphor, if you simply get a consumer-grade internet access, it is most likely that your ISP doesn't have set guarantees for service availability: your digital front door might be jammed shut up to 5% of the time and you can't get the service provider to fix it. In Germany, for example, ISPs often have a 95% uptime guarantee for a single year in consumer internet services. This means that 365 x 5% = 18,25 days of a year their service might be unavailable and they don't have to do anything about it, legally. In business contracts, these Service Level Agreements might be 99.9% of uptime guarantee. That brings you to about 6 hours of down time in a year. That is already a lot better. In the end, the quality of service you buy must match the degree to which you depend on said service. If, as a postproduction house, you are receiving and delivering content via the internet daily and maybe run backups to a cloud service over night, 18 days of downtime is a definite showstopper.
@@ -94,9 +98,14 @@ Bonding is a technology where the multi-WAN connected router rips apart discrete
 
 ### WAN Access On-The-Road
 
-In evaluating WAN connections, it has proved useful to assume the mean speed to be about half of the maximum speed measured. As discussed above, you can lease connections with speeds up to 10Gb/s as of the time of writing in 2019. Consider, though, an old, slow Asynchronous DSL 50.000, providing (on average a mere 36.8 Mb/s of download)[https://www.dslweb.de/dsl-16000-speed-test.php]. Halve this: 18,4 Mb/s of approximate mean speed. In many asynchronous DSL connections, the upload is about 1/5 to 1/4 of the download (since most users download much more than they upload). A fifth of 18,4 Mb/s is 3,68 Mb/s - about the bandwidth needed to stream a medium-quality 720i50 video with stereo audio of appropriate quality.  Therefore, even via an asynchronous, consumer-grade WAN connection, with a security of 1/10 factored in, you can broadcast a decent HDReady TV program.
+In evaluating WAN connections, it has proved useful to assume the mean speed to be about half of the maximum speed measured. As discussed above, you can lease connections with speeds up to 10Gb/s as of the time of writing in 2019. Consider, though, an old, slow Asynchronous DSL 50.000, providing (on average a mere 36.8 Mb/s of download)[https://www.dslweb.de/dsl-16000-speed-test.php]. Halve this: 18,4 Mb/s of approximate mean speed. In many asynchronous DSL connections, the upload is about 1/5 to 1/4 of the download (since most users download much more than they upload). A fifth of 18,4 Mb/s is 3,68 Mb/s - about the bandwidth needed to stream a medium-quality 720i50 video with stereo audio of appropriate quality.  Therefore, even via an asynchronous, consumer-grade WAN connection, with a security factor of 10, you can broadcast a decent HDReady TV program.
 
-- KA-SAT data rates
-- LTE to support
-- BONDING!
-- 
+This ubiquitous availability of WAN access has been changing the outside-broadcasting industry. A satellite uplink is no longer the only nor necessarily the best access to sufficient network speeds. LTE / 4G solutions using bonding of multiple SIM-cards are available in portable formats, supporting small news-gathering crews or even larger broadcast productions on locations that were previously unaccessible due to the size and complexity of satellite uplinking equipment. While choosing a simple LTE-bonding backpack as the solution for a run-and-gun news gathering operation, as we have seen, having a single point-of-failure in the form of a single networking technology can threaten productions. Linking multiple types of connections, for example DSL, KA-SAT and LTE into a bonding connection provides double-redundancy plus enhanced bandwidth for streaming, even if one network fails.
+
+The double-redundancy in this system has proved useful in situations where the location of live productions was making the use of a single WAN connection too unreliable. One such production for a small German TV station was troubled by the parking location of the SNG and its satellite dish, so that no KA-SAT connection was available. The event location provided a redundant synchronous DSL line from a premium German ISP. Just two hours before the event, continuous monitoring of the WAN connection showed continually diminishing network speeds. Extrapolation of the trend meant a total failure of the line by the time the broadcast was set to start was likely. Fortunately, the OB-van provided by (IP-Broadcast)[http://ip-broadcast.link/] is fitted with a high-gain LTE-system, so that the production quickly pivoted to LTE as a fallback. This example shows that even a connection that is reputable (premium ISP with business-grade Service Level) and has never failed (according to the location manager) is not a safe bet in a live-situation and provisions should be made for fail-over scenarios. In this case, an (encoder-managed bonding)[http://www.intinor.se/en/products/direkt-link/] with INTINOR Hardware linking a DSL and LTE connection via Lancom WAN-routers was the solution. As the DSL network degraded, the encoder dynamically adjusted both the data rate of the HD broadcast as well as the lines it used, delivering an uninterrupted 5+ hour broadcast without operator intervention.
+
+The ease with which WAN-connections can be accessed today can lure people into a false sense of security, thinking that a single WAN line can be the single uplink to broadcast content. Smart technologies such as multi-WAN bonding have to be deployed to avoid single-point-of-failure scenarios and deliver data as contracted
+
+Another case where on-the-road WAN access can be helpful is in providing communications to cast and crew on location. A professional LTE router with a high-gain directional antenna can provide internet access where smartphones fail to get service. In even more remote situations, a satellite uplink can achieve the same. Providing internet access can not only be important to production management but also to technical crew such as Digital Image Technicians or data wranglers who might want to upload dailies for review.
+
+Whether for broadcast or to establish communications, WAN-access while on location is achievable with redundancy leveraging modern networks and smart fail-over solutions.
