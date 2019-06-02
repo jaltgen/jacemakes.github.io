@@ -2,7 +2,6 @@
 title: Modern Connectivity Whitepaper
 date: 15. February 2019
 layout: page
----
 
 # High-Availability Secure Networking for Media Companies
 
