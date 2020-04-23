@@ -8,7 +8,7 @@ layout: page
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>JaceMakes</p>
 <p>Jannik C. Altgen</p>
-<p>Postfach 1514</p>
+<p>Weberstraße 1a</p>
 <p>40764 Langenfeld</p>
 <p>Germany</p>
 <h2>Ihre Betroffenenrechte</h2>
